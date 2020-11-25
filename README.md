@@ -11,7 +11,7 @@
  - Fragment, Fragment lifecycle [(Learn from here)](https://blog.mindorks.com/android-fragments-and-its-lifecycle)
  - View and ViewGroups [(Learn from here)](https://blog.mindorks.com/android-user-interface-view-components)
  - Layouts, XML Files [(Learn from here)](https://www.tutorialspoint.com/android/android_user_interface_layouts.htm)
- - RecyclerView [(Learn from here)](https://medium.com/swlh/android-recyclerview-part-1-creating-a-simple-list-d84392c268b0) [(from video)](https://www.youtube.com/watchv=Vyqz_-sJGFk)
+ - RecyclerView [(Learn from here)](https://medium.com/swlh/android-recyclerview-part-1-creating-a-simple-list-d84392c268b0) [(from video)](https://www.youtube.com/watch?v=Vyqz_-sJGFk)
  - Intents (Explice Intent, Implicit intent) [(Learn from here)](https://blog.mindorks.com/what-are-intents-in-android)
  - Services, (Foreground Service, Started Service, Bound Service, Intent Service) [(Learn from here)](https://www.vogella.com/tutorials/AndroidServices/article.html)
  - Broadcast receiver [(Learn from here)](https://developer.android.com/guide/components/broadcasts)
